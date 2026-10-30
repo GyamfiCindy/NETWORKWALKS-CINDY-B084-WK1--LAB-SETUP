@@ -92,7 +92,7 @@ The basic environment consists of a Windows 11 Pro host machine running Oracle V
 
 | Component | Configuration |
 |-----------|---------------|
-| Laptop | HP Laptop 14s-dr1xxx |
+| Laptop | Dell Laptop 14s-dr1xxx |
 | Host OS | Windows 11 Pro |
 | Processor | AMD Ryzen 3 PRO 3300U w/ Radeon Vega Mobile Gfx   2.10 GHz |
 | Host RAM | 8 GB |
